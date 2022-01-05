@@ -1,7 +1,7 @@
 import preprocess2 as pp2
 from preprocess3 import PyCNN
 import easygui as eg
-import cv2
+import cv2#modiifed
 import adaptive_median as amf
 import average_filter as af
 import BilateralFilter as bf
